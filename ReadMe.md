@@ -13,11 +13,9 @@ https://user-images.githubusercontent.com/85503587/236725798-88b0bf08-260f-4afc-
 
 ### Some Fun Stats:
 
-<img decoding="async" loading="lazy" height="180em" src="https://github.com/kainn9/github_stats_workflow/blob/main/stats.svg" />
+<img decoding="async" loading="lazy" height="180em" src="https://github.com/kainn9/github_stats_workflow/blob/files/stats.svg" />
 
-[![Top Langs](https://github.com/kainn9/github_stats_workflow/blob/main/top-langs.svg)](https://github.com/kainn9/github-readme-stats)
-#### Note: This does not properly account for private contributions for work(mostly personal projects only).
-
+<img decoding="async" loading="lazy" height="180em" src="https://github.com/kainn9/github_stats_workflow/blob/files/top-langs.svg" />
 
 ### Lastly, here is photo of my dog Appa:
 ![appa](https://user-images.githubusercontent.com/85503587/236726979-828ad0ed-0e47-4ae7-aea1-c9b0760131fc.jpeg)
